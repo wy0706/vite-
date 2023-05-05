@@ -11,3 +11,7 @@ cdn: content delivery network 内容分发网络
 
 体积(体积小服务器和客户端的传输压力就没那么大)
 cdn -->内容分发 dns
+
+https://www.jsdelivr.com/
+
+https://www.bootcdn.cn/
